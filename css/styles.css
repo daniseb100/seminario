@@ -1,0 +1,8 @@
+.container {
+   background:#333 url(https://img.freepik.com/vector-gratis/fondo-blanco-forma-diamante-estilo-perspectiva-3d_1017-27556.jpg?w=2000);
+   text-align:center;
+   margin-top:-20px;
+   padding-top:10px;
+   height:800px;
+   display: block;
+}
